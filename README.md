@@ -2,10 +2,7 @@
 
 <p align="center">
 <img width="130" height="" alt="68747470733a2f2f65787465726e616c2d6d656469612e73706163656865792e6e65742f6d656469612f736d504a4a70715a32333551396b4741516e436b734e6970674c3371366639674a545f3632592d346a7179303d2f68747470733a2f2f692e6962622e636f2f74686d706239432f74756d626c722d" src="https://github.com/user-attachments/assets/0a407938-e6b4-41d2-b154-f76247c847d9" />
-</p>
-<p align="center">
-  <img width="400" height="" alt="idk" src="https://github.com/user-attachments/assets/179887b4-5e55-4941-a63d-79d47103bdc9" />
-</p>
+
 <!--
 **Snail-Incorporation/Snail-Incorporation** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
